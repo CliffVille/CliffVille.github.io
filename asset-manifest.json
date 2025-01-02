@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CliffVille/CliffVille.github.io/static/css/main.47707324.css",
+    "main.js": "/CliffVille/CliffVille.github.io/static/js/main.a9e22223.js",
+    "static/js/453.1407b060.chunk.js": "/CliffVille/CliffVille.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/clffloader.gif": "/CliffVille/CliffVille.github.io/static/media/clffloader.00c8a8be2dbd80d67d79.gif",
+    "static/media/cribcleaners.png": "/CliffVille/CliffVille.github.io/static/media/cribcleaners.3cedfdc3c8589845688d.png",
+    "static/media/duckhunt.png": "/CliffVille/CliffVille.github.io/static/media/duckhunt.2f27d26bd9df5f25091b.png",
+    "static/media/mecoding.jpeg": "/CliffVille/CliffVille.github.io/static/media/mecoding.33e95e8f3a35ee364fbd.jpeg",
+    "index.html": "/CliffVille/CliffVille.github.io/index.html",
+    "main.47707324.css.map": "/CliffVille/CliffVille.github.io/static/css/main.47707324.css.map",
+    "main.a9e22223.js.map": "/CliffVille/CliffVille.github.io/static/js/main.a9e22223.js.map",
+    "453.1407b060.chunk.js.map": "/CliffVille/CliffVille.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47707324.css",
+    "static/js/main.a9e22223.js"
+  ]
+}
