@@ -50,7 +50,7 @@ const Hero = () => {
               <AiFillLinkedin size={40} />
             </a>
             {/* Personal Website */}
-            <a href="https://www.cliffordvilleneuve.ca" target="_blank" rel="noopener noreferrer" className="text-accent mb-2 hover:text-white">
+            <a href="https://cliffville.github.io/" target="_blank" rel="noopener noreferrer" className="text-accent mb-2 hover:text-white">
               <AiOutlineLink size={40} />
             </a>
           </div>

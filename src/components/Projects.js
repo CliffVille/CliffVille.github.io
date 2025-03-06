@@ -1,8 +1,6 @@
 import React from "react";
 import cribCleaner from "../assets/cribcleaners.png";
-import rebel from "../assets/rebel.png";
-import nsc from "../assets/nsc.png";
-import duckHunt from "../assets/duckhunt.png";
+import simplitax from "../assets/SimpliTax.png";
 import { motion } from "framer-motion";
 import { fadeIn } from "../components/variants";
 
@@ -13,29 +11,15 @@ const Projects = () => {
           img: cribCleaner,
           title: "Crib Cleaners",
           desc: " The Crib Cleaners website, built for a power washing company, uses React and Tailwind CSS. It offers a clean navigation and dynamic visuals. ",
-          live: "https://cribcleaners.cliffordvilleneuve.ca/",
-          code: "https://github.com/CliffVille/TheCribCleaners",
+          live: "https://thecribcleaners.com",
+          code: "https://github.com/CliffVille/cribcleaners",
         },
         {
-          img: rebel,
-          title: "Rebel Clothing store",
-          desc: "Rebel's clothing store website was built using JavaScript and jQuery and CSS, featuring a seamless shopping experience with user-friendly cart functionality.",
-          live: "https://rebel.cliffordvilleneuve.ca/",
-          code: "https://github.com/CliffVille/rebelclothing",
-        },
-        {
-          img: nsc,
-          title: "NSC Gallery",
-          desc: "NSC's Art Gallery portfolio website was crafted using Masonry.js, HTML, and CSS, offering a visually dynamic layout with smooth, responsive design.",
-          live: "https://nsc.cliffordvilleneuve.ca/",
-          code: "https://github.com/CliffVille/nsc",
-        },
-        {
-          img: duckHunt,
-          title: "Duck Hunt - an interactive JavaScript game",
-          desc: "The Duck Hunt game is animated with CSS keyframes and JavaScript, react to mouse movements and fly away from the cursor, with shooting simulated through sound effects and disappearing animations.",
-          live: "https://duckhunt.cliffordvilleneuve.ca/",
-          code: "https://github.com/CliffVille/duckhunt",
+          img: simplitax,
+          title: "Simpli-Tax",
+          desc: "Contract for an accounting firm. Designing and developing in React and tailwindcss.",
+          live: "https://cliffville.github.io/simpli-tax/",
+          code: "https://github.com/CliffVille/simpli-tax",
         },
       ]; 
 
@@ -49,7 +33,7 @@ const Projects = () => {
             whileInView={"show"}
             viewport={{once: false, amount : 0.3 }}
             >
-              <h2 className="text-4xl font-bold mb-10 border-b-[5px] w-[180px] mx-auto md:mx-0 border-accent pb-6">
+              <h2 className="text-4xl font-bold mb-10 border-b-[5px] w-[180px] mx-auto md:mx-0 border-accent pb-6 text-center md:text-left">
                 Projects
               </h2>
           </motion.div>
@@ -59,7 +43,7 @@ const Projects = () => {
             whileInView={"show"}
             viewport={{once: false, amount : 0.3 }}
             >
-            <p className="mb-8">
+            <p className="mb-8 text-center md:text-left">
               These are some of my projects. I have built these with React,
               Masonary.js and vanilla JavaScript, Tailwindcss, and vanilla CSS. Check them out.
             </p>

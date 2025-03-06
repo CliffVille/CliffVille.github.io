@@ -17,15 +17,15 @@ const About = () => {
             About Me
           </h2>
         
-          <p className="w-[90%] md:w-3/4 pb-5 mx-auto md:mx-0">
+          <p className="w-[90%] md:w-3/4 pb-5 mx-auto md:mx-0 text-center md:text-left">
             I’m from Maple Ridge and I decided to make some changes and take the leap from mental health to becoming a skilled developer.
           </p>
       
-          <p className="w-[90%] md:w-3/4 pb-5 w-3/4 mx-auto md:mx-0">
+          <p className="w-[90%] md:w-3/4 pb-5 w-3/4 mx-auto md:mx-0 text-center md:text-left">
             I've got a solid grip on HTML, CSS, and JavaScript, and recently, I've been exploring React-Native, PHP, and MySQL. Ready to shake things up even more by adding more languages to my skillset.
           </p>
  
-          <p className="w-[90%] md:w-3/4 mx-auto md:mx-0">I also mess around with Adobe stuff like Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Dimensions, and XD. Also, I'm pretty good with Figma and Canva. Let's create something cool together!</p>
+          <p className="w-[90%] md:w-3/4 mx-auto md:mx-0 text-center md:text-left">I also mess around with Adobe stuff like Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, Dimensions, and XD. Also, I'm pretty good with Figma and Canva. Let's create something cool together!</p>
           </motion.div>
         </div>
 
