@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.47707324.css",
-    "main.js": "/static/js/main.579599ae.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/clffloader.gif": "/static/media/clffloader.00c8a8be2dbd80d67d79.gif",
-    "static/media/cribcleaners.png": "/static/media/cribcleaners.3cedfdc3c8589845688d.png",
-    "static/media/duckhunt.png": "/static/media/duckhunt.2f27d26bd9df5f25091b.png",
-    "static/media/mecoding.jpeg": "/static/media/mecoding.33e95e8f3a35ee364fbd.jpeg",
-    "index.html": "/index.html",
-    "main.47707324.css.map": "/static/css/main.47707324.css.map",
-    "main.579599ae.js.map": "/static/js/main.579599ae.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/CliffVille.github.io/static/css/main.47707324.css",
+    "main.js": "/CliffVille.github.io/static/js/main.c86cebed.js",
+    "static/js/453.1407b060.chunk.js": "/CliffVille.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/clffloader.gif": "/CliffVille.github.io/static/media/clffloader.00c8a8be2dbd80d67d79.gif",
+    "static/media/cribcleaners.png": "/CliffVille.github.io/static/media/cribcleaners.49b6e7503851419cecf3.png",
+    "static/media/mecoding.jpeg": "/CliffVille.github.io/static/media/mecoding.33e95e8f3a35ee364fbd.jpeg",
+    "static/media/SimpliTax.png": "/CliffVille.github.io/static/media/SimpliTax.f45cc5ac5d1bc23743f8.png",
+    "index.html": "/CliffVille.github.io/index.html",
+    "main.47707324.css.map": "/CliffVille.github.io/static/css/main.47707324.css.map",
+    "main.c86cebed.js.map": "/CliffVille.github.io/static/js/main.c86cebed.js.map",
+    "453.1407b060.chunk.js.map": "/CliffVille.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47707324.css",
-    "static/js/main.579599ae.js"
+    "static/js/main.c86cebed.js"
   ]
 }
